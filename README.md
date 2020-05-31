@@ -2,7 +2,7 @@
 Learning to build an OrchardCore theme by using liquid template to implement [Modern Business](https://startbootstrap.com/templates/modern-business/) theme of Start Bootstrap.
 
 ## Motivation
-Orchard project is one of my favour open source projects captured my daily attentions recently. Back to many years ago I did one project using OC1 in which I found that the learning curve is very long, but I did enjoy my time spending on it as I learned not only the Orchard itself, but also the architecture design, coding skills and etc. I believe there are many people are like me that having passions on finding better way of implementing even a small peice of code, such as the Orchard team and its contributors.
+Orchard project is one of my favour open source projects captured my daily attentions recently. Back to many years ago I did one project using OC1 in which I found that the learning curve is very long, but I did enjoy my time spending on it as I learned not only the Orchard itself, but also the architecture design, coding skills and etc. I believe there are many people are like me that having passions on finding better way of implementing even a small piece of code, such as the Orchard team and its contributors.
 
 OrchardCore (aka OC2), which is based on the latest .net core framework, brings lots of new designs and features, and I started my exploration again. I started my learning from browsing a couple of Orchard videos in [Lombiq's youtube channcel](https://www.youtube.com/channel/UCDVUxCz2RvkgTbA0wAYKwRA), I then went throught the [Orchard-Training-Demo-Module](https://github.com/Lombiq/Orchard-Training-Demo-Module/tree/orchard-core) to understand some concepts in OrcharcCore. During the development of this theme project, I relied a lot on the offical [documentations](https://docs.orchardcore.net/), and followed the Orchard's __buildin themes__. Last but not least, I asked questions in the community, [Github Issues](https://github.com/OrchardCMS/OrchardCore/issues) and [Gitter](https://gitter.im/OrchardCMS/OrchardCore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
 
@@ -18,7 +18,7 @@ The Modern Business theme includes 17 HTML pages. All features in these pages ar
 1. The looking is the same as the original theme as much as possible.
 
 ## Moving Foward
-1. Looking for better way to deal with each scenarios in the theme including below.
+1. Looking for better way to deal with each scenarios in the theme including below:
   * Better way to deal with Breadcrumbs.
   * Styling of flow parts such as the contact form.
 2. Writing blogs or recording videos to have a better demo.
